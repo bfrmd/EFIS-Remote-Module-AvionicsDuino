@@ -7,7 +7,7 @@
  Les indications brutes du LIS3MDL sont compensées en roll et pitch, grâce aux indications correspondantes envoyées via le CAN Bus par le module principal. Ce dernier reçoit donc un cap magnétique compensé.
  Pour la température et l'humidité relative, le cateur est un Adafruit/Sensirion SHT30 (PRODUCT ID: 4099), "Weather proof".
 ************************************************************************************************************************************************************************************************************************************ 
-The MIT License (MIT)
+MIT License (MIT)
 Copyright (c) 2023 AvionicsDuino - benjamin.fremond@avionicsduino.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
