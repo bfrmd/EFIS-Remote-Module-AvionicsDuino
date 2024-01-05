@@ -32,7 +32,7 @@
 // Le magnétomètre est un capteur triaxial LIS3MDL de STMicroelectronics, monté sur une carte Adafruit ID 4099. 
 // Les indications brutes du LIS3MDL sont compensées en roll et pitch, grâce aux indications correspondantes envoyées via le CAN Bus par l'EFIS. Ce dernier reçoit donc en retour un cap magnétique compensé.
 // Pour la température et l'humidité relative, le cateur est un Adafruit/Sensirion SHT30 (PRODUCT ID: 4099), "Weather proof".
-************************************************************************************************************************************************************************************************************************************ 
+// ************************************************************************************************************************************************************************************************************************************ 
 
 // --------------------------------------------------------------------------------------------------------------------------------------------------------------
 //                                                Connexions physiques des capteurs et composants externes avec la carte Teensy 4.0
