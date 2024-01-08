@@ -134,7 +134,7 @@ void setup()
   
 // ********************************************************************************* Initialisation du capteur température/humidité  *******************************************************************************************
   Wire.begin();
-  sht.begin(SHT31_ADDRESS);
+  sht.begin();
   Wire.setClock(100000);
 
   uint16_t stat = sht.readStatus();
