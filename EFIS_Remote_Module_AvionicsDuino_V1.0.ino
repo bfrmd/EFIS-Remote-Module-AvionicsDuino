@@ -1,8 +1,8 @@
 /*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-//                                                 EFIS_Remote_Module_Avionicsduino
+//                                                 EFIS_Remote_Module_Avionicsduino_V1.0
 //+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-  EFIS_Remote_Module_Avionicsduino is free software:
+  EFIS_Remote_Module_Avionicsduino_V1.0 is free software:
   MIT License (MIT)
   
   Copyright (c) 2023 AvionicsDuino - benjamin.fremond@avionicsduino.com
